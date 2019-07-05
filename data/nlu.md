@@ -51,10 +51,10 @@
 
 ## intent:myfarm_usage
 - why the name myfarm
-- how do i create an account on myfarm
-- how do i do payments for my account
-- how do i upload old excel data files to the system
-- how do i get started with myfarm
-- where is the subscription link
-- how do i pay for my account using paypal
-
+- how do i create an account on myfarm]
+- how do i do payments for my [account]
+- how do i upload old excel data files to [myfarm]
+- how do i get started with [myfarm]
+- where is the [subscription link]
+- how do i pay for my account using [paypal]
+- - Could I pay in [yen](currency)?  <!-- entity matched by lookup table -->
